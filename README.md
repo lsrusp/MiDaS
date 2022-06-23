@@ -1,4 +1,5 @@
-## **MiDaS: extract golden results from Knowledge Discovery even over incomplete Databases**
+
+## **MiDaS: extracting golden results from Knowledge Discovery even over incomplete Databases**
 
 ### **Conference**: 22nd International Conference On Computational Science (ICCS), London, United Kingdom, 21-23 June, 2022 
 
@@ -11,6 +12,12 @@ The continuous growth in data collection requires effective and efficient capabi
 - Homepage: https://www.iccs-meeting.org/iccs2022/
 - Program: https://easychair.org/smart-program/ICCS2022/
 
+### Available at Springer
+- MiDaS: https://link.springer.com/chapter/10.1007/978-3-031-08760-8_54
+
+### Cite this paper
+Rodrigues, L.S., Vespa, T.G., Eleutério, I.A.R., Oliveira, W.D., Traina, A.J.M., Traina, C. (2022). MiDaS: Extract Golden Results from Knowledge Discovery Even over Incomplete Databases. In: Groen, D., de Mulatier, C., Paszynski, M., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2022. ICCS 2022. Lecture Notes in Computer Science, vol 13353. Springer, Cham. https://doi.org/10.1007/978-3-031-08760-8_54
+  
 ### **Folders:**
 - db_features: datasets with extracted and used features
 - db_management: sql scripts with crud processes
